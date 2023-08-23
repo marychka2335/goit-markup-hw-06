@@ -1198,7 +1198,7 @@ nav {
 }
 
 .subscribe-input {
-  width: 398px;
+  width: 100%;
   background-color: transparent;
   height: 40px;
   border: 1px solid var(--white-color);
